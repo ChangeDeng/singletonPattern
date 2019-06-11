@@ -63,7 +63,7 @@ namespace Singleton2
 
             public void TestMethod()
             {
-                Console.WriteLine(DateTime.Now.ToLongTimeString() + "   TestMethod()方法执行时间");
+                Console.WriteLine(DateTime.Now.ToLongTimeString() + "   TestMethod()方法执行时间--20190611");
             }
         }
 }
